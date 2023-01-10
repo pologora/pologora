@@ -1,45 +1,24 @@
-## Hi there. I`m Oleksandr 👋
+# Welcome to my repository!
 
-- 📫 How to reach me 
+![GitHub followers](https://img.shields.io/github/followers/username.svg?style=social)
 
+Thanks for visiting my repository! Here, you'll find all of my projects and code that I've created and shared with the world.
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lysakov555@gmail.com?subject=GitHub)
-<!---[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-lysakov/)---!>
-<!---
-pologora/pologora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What's included
+- List of projects
+- Description of each project
+- Links to the live version of the project
+- Links to the code
 
-# Project Title
+## How to use
+- Use the table of contents on the left to navigate through my projects
+- Click on the live version link to see the project in action
+- Click on the code link to see the code on Github
 
-![GitHub top language](https://img.shields.io/github/languages/top/pologota/repo.svg) ![GitHub language count](https://img.shields.io/github/languages/count/pologora/repo.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/username/repo.svg) ![GitHub](https://img.shields.io/github/license/pologora/repo.svg) 
+## Contributions
+- I appreciate any feedback, bug reports, and pull requests
+- If you have any ideas for new features or improvements, feel free to open an issue
 
-A brief description of your project and what it does.
+## Follow me
+- To stay up to date on my latest projects and developments, you can follow me on [Github](https://github.com/pologora) or [Twitter](https://twitter.com/username)
 
-## Table of contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-
-## Installation
-
-Instructions for installing the project and getting it up and running.
-
-## Usage
-
-Examples and usage instructions for the project.
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-## Support
-
-Details for how users can get support for the project.
-
-## License
-
-The project is licensed under the [Name of the License](Link to the License).
