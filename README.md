@@ -1,4 +1,4 @@
-# Welcome to my repository!
+# Hello 👋 and welcome to my repository!
 
 
 Thanks for visiting my repository! Here, you'll find all of my projects and code that I've created and shared with the world.
