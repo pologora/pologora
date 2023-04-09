@@ -1,6 +1,5 @@
 # Welcome to my repository!
 
-![GitHub followers](https://img.shields.io/github/followers/username.svg?style=social)
 
 Thanks for visiting my repository! Here, you'll find all of my projects and code that I've created and shared with the world.
 
@@ -9,15 +8,6 @@ Thanks for visiting my repository! Here, you'll find all of my projects and code
 - Description of each project
 - Links to the live version of the project
 - Links to the code
-
-## How to use
-- Use the table of contents on the left to navigate through my projects
-- Click on the live version link to see the project in action
-- Click on the code link to see the code on Github
-
-## Contributions
-- I appreciate any feedback, bug reports, and pull requests
-- If you have any ideas for new features or improvements, feel free to open an issue
 
 ## Follow me
 - To stay up to date on my latest projects and developments, you can follow me on [Github](https://github.com/pologora) or [Twitter](https://twitter.com/username)
