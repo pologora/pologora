@@ -10,9 +10,9 @@ Thanks for visiting my repository! Here, you'll find all of my projects and code
 - Links to the code
 
 ## Follow me
-- To stay up to date on my latest projects and developments, you can follow me on [Github](https://github.com/pologora) or [Twitter](https://twitter.com/username)
+- To stay up to date on my latest projects and developments, you can follow me on [Github](https://github.com/pologora)
 
 ## Project List
-- Project 1: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-1)
+- Employee Time Management System: [Live Version](https://best-ever-magazyn.netlify.app) | [Code](https://github.com/pologora/magazyn_time_management)
 - Project 2: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-2)
 - Project 3: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-3)
