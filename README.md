@@ -1,4 +1,4 @@
-# Hello 👋 and welcome to my repository! My name is Olek. 
+# Hello 👋, my name is Olek, welcome to my repository!
 
  Here, you'll find all of my projects and code that I've created and shared with the world.
 
