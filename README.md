@@ -1,4 +1,4 @@
-# Hello 👋, my name is Olek, welcome to my repository!
+# Hello 👋 and welcome to The Repository of Olek!
 
  Here, you'll find all of my projects and code that I've created and shared with the world.
 
@@ -13,5 +13,5 @@
 
 ## Project List
 - Employee Time Management System: [Live Version](https://best-ever-magazyn.netlify.app) | [Code](https://github.com/pologora/magazyn_time_management)
-- Project 2: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-2)
-- Project 3: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-3)
+- NFT project: [Live Version](http://www.example.com) | [Code](https://github.com/pologora/punks)
+
