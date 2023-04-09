@@ -13,6 +13,6 @@ Thanks for visiting my repository! Here, you'll find all of my projects and code
 - To stay up to date on my latest projects and developments, you can follow me on [Github](https://github.com/pologora)
 
 ## Project List
-- Employee Time Management System: [Live Version](https://best-ever-magazyn.netlify.app) | [Code](https://github.com/pologora/magazyn_time_management)
+- Employee Time Management System: [Live Version](https://best-ever-magazyn.netlify.app){:target="_blank"} | [Code](https://github.com/pologora/magazyn_time_management){:target="_blank"}
 - Project 2: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-2)
 - Project 3: [Live Version](http://www.example.com) | [Code](https://github.com/username/project-3)
