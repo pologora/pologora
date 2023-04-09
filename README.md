@@ -1,7 +1,6 @@
-# Hello 👋 and welcome to my repository!
+# Hello 👋 and welcome to my repository! My name is Olek. 
 
-
-Thanks for visiting my repository! Here, you'll find all of my projects and code that I've created and shared with the world.
+ Here, you'll find all of my projects and code that I've created and shared with the world.
 
 ## What's included
 - List of projects
