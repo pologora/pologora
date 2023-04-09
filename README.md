@@ -18,7 +18,7 @@ A comprehensive solution for managing employee work times, vacations, and attend
 - [Live Version](https://best-ever-magazyn.netlify.app)
 - [Code](https://github.com/pologora/magazyn_time_management)
 
-### NFT Project
-A web application for browsing, buying, and selling unique digital art pieces as NFTs (Non-Fungible Tokens). The platform is built using React, Ethereum Smart Contracts, and the IPFS distributed file system.
+### NFT Project, 10000 unique CPunks
+A web application for browsing and minting unique digital art pieces as NFTs (Non-Fungible Tokens).  The platform is built using React, Ethereum Smart Contracts, and the IPFS distributed file system.
 - [Live Version](http://www.example.com)
 - [Code](https://github.com/pologora/punks)
