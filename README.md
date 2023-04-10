@@ -14,7 +14,7 @@ Here, you'll find all of my projects and code that I've created and shared with 
 ## Project List
 
 ### Employee Time Management System
-A comprehensive solution for managing employee work times, vacations, and attendance in various work environments. The system includes a mobile app for employees and an admin web application for managers. It is built using React Native, MongoDB Realm, React, and Material UI.
+Commercial project. A comprehensive solution for managing employee work times, vacations, and attendance in various work environments. The system includes a mobile app for employees and an admin web application for managers. It is built using React Native, MongoDB Realm, React, and Material UI.
 - [Live Version](https://best-ever-magazyn.netlify.app)
 - [Code](https://github.com/pologora/magazyn_time_management)
 
