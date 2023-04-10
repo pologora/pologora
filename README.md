@@ -22,3 +22,8 @@ Commercial project. A comprehensive solution for managing employee work times, v
 A web application for browsing and minting unique digital art pieces as NFTs (Non-Fungible Tokens).  The platform is built using React, Ethereum Smart Contracts, and the IPFS distributed file system.
 - [Live Version](https://cronos-cpunks.netlify.app)
 - [Code](https://github.com/pologora/punks)
+
+### Portfolio
+Potfolio website builded with Next.js and Tailwind.css
+- [Live Version](https://olekportfolio.vercel.app/)
+- [Code](https://github.com/pologora/portfolio)
