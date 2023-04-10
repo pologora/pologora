@@ -20,5 +20,5 @@ Commercial project. A comprehensive solution for managing employee work times, v
 
 ### NFT Project, 10000 unique CPunks
 A web application for browsing and minting unique digital art pieces as NFTs (Non-Fungible Tokens).  The platform is built using React, Ethereum Smart Contracts, and the IPFS distributed file system.
-- [Live Version](http://www.example.com)
+- [Live Version](https://cronos-cpunks.netlify.app)
 - [Code](https://github.com/pologora/punks)
