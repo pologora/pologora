@@ -25,5 +25,5 @@ A web application for browsing and minting unique digital art pieces as NFTs (No
 
 ### Portfolio
 Potfolio website builded with Next.js and Tailwind.css
-- [Live Version](https://webdevolek.me/)
+- [Live Version](https://www.webdevolek.me/)
 - [Code](https://github.com/pologora/portfolio)
