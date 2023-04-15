@@ -15,7 +15,7 @@ Here, you'll find all of my projects and code that I've created and shared with 
 
 <p>
   <a href="mailto:lysakova@yahoo.com">
-    <img src="https://img.shields.io/badge/email-%25gmail.com-blue?style=flat&logo=gmail&logoColor=white&labelColor=5F5F5F" alt="Your Email" />
+    <img src="https://img.shields.io/badge/email-25gmail.com-blue?style=flat&logo=gmail&logoColor=white&labelColor=5F5F5F" alt="Your Email" />
   </a>
   <a href="https://linkedin.com/in/oleksandr-lysakov" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&labelColor=5F5F5F" alt="LinkedIn" />
