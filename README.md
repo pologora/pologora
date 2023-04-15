@@ -14,7 +14,7 @@ Here, you'll find all of my projects and code that I've created and shared with 
 ## Contacts 
 
 <p>
-  <a href="mailto:lysakova@yahoo.com">
+  <a href="mailto:lysakov555@gmail.com">
     <img src="https://img.shields.io/badge/email-gmail.com-blue?style=flat&logo=gmail&logoColor=white&labelColor=5F5F5F" alt="Your Email" />
   </a>
   <a href="https://linkedin.com/in/oleksandr-lysakov" target="_blank">
