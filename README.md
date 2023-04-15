@@ -11,10 +11,23 @@ Here, you'll find all of my projects and code that I've created and shared with 
 ## Follow me
 - To stay up to date on my latest projects and developments, you can follow me on [Github](https://github.com/pologora)
 
+## Contacts 
+
+<p>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/email-%2540gmail.com-blue?style=flat&logo=gmail&logoColor=white&labelColor=5F5F5F" alt="Your Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&labelColor=5F5F5F" alt="LinkedIn" />
+  </a>
+</p>
+
 ## Project List
 
 ### Employee Time Management System
-Commercial project. A comprehensive solution for managing employee work times, vacations, and attendance in various work environments. The system includes a mobile app for employees and an admin web application for managers. It is built using React Native, MongoDB Realm, React, and Material UI.
+Commercial, full stack project that was developed based on client needs and is now
+       being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
+       The system includes a mobile app for employees and an admin web application for managers.
 - [Live Version](https://best-ever-magazyn.netlify.app)
 - [Code](https://github.com/pologora/magazyn_time_management)
 
