@@ -24,17 +24,17 @@ Here, you'll find all of my projects and code that I've created and shared with 
 
 ## Project List
 
-### Audiophile e-commerce website
-Multi-page full responsive e-commerce site, a project I developed to demonstrate my skills as a frontend developer.
-- [Live Version](https://audiophile-website-pologora.vercel.app/)
-- [Code](https://github.com/pologora/audiophile-website)
-
 ### Employee Time Management System
 Commercial, full stack project that was developed based on client needs and is now
        being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
        The system includes a mobile app for employees and an admin web application for managers.
 - [Live Version](https://best-ever-magazyn.netlify.app)
 - [Code](https://github.com/pologora/magazyn_time_management)
+
+### Audiophile e-commerce website
+Multi-page full responsive e-commerce site, a project I developed to demonstrate my skills as a frontend developer.
+- [Live Version](https://audiophile-website-pologora.vercel.app/)
+- [Code](https://github.com/pologora/audiophile-website)
 
 ### NFT Project, 10000 unique CPunks
 A web application for browsing and minting unique digital art pieces as NFTs (Non-Fungible Tokens).  The platform is built using React, Ethereum Smart Contracts, and the IPFS distributed file system.
