@@ -28,7 +28,7 @@ Here, you'll find all of my projects and code that I've created and shared with 
 Commercial, full stack project that was developed based on client needs and is now
        being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
        The system includes a mobile app for employees and an admin web application for managers.
-- [Live Version](https://best-ever-magazyn.netlify.app)
+- [Live Version](https://test-magazyn.netlify.app/login)
 - [Code](https://github.com/pologora/magazyn_time_management)
 
 ### Audiophile e-commerce website
