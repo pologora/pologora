@@ -27,7 +27,7 @@ Here, you'll find all of my projects and code that I've created and shared with 
 ### Employee Time Management System
 Commercial, full stack project that was developed based on client needs and is now
        being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
-       The system includes a mobile app for employees and an admin web application for managers.
+       The system includes a mobile and web apps for employees, an admin web application for managers and a Node.js server with MongoDB.
 - [Live Version](https://test-magazyn.netlify.app/login)
   ### Code:
 - [Admin panel (React, MaterialUI, Tailwindcss)](https://github.com/pologora/magazyn_time_management)
