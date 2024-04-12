@@ -29,10 +29,12 @@ Commercial, full stack project that was developed based on client needs and is n
        being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
        The system includes a mobile app for employees and an admin web application for managers.
 - [Live Version](https://test-magazyn.netlify.app/login)
-- [Admin panel](https://github.com/pologora/magazyn_time_management)
-- [Backend](https://github.com/pologora/magazyn_backend)
-- [Users web app](https://github.com/pologora/vacations_app)
-- [Android app](https://github.com/pologora/employee_time_management/tree/master/mobile_app)
+  ### Code:
+- [Admin panel (React, MaterialUI, Tailwindcss)](https://github.com/pologora/magazyn_time_management)
+- [Backend (Node.js, Express, MongoDB)](https://github.com/pologora/magazyn_backend)
+- [Users web app (React, Typescript, ModuleCSS)](https://github.com/pologora/vacations_app)
+- [Android app (React-native, Typescript)](https://github.com/pologora/employee_time_management/tree/master/mobile_app)
+  
 ### Audiophile e-commerce website
 Multi-page full responsive e-commerce site, a project I developed to demonstrate my skills as a frontend developer.
 - [Live Version](https://audiophile-website-pologora.vercel.app/)
