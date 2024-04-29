@@ -17,11 +17,10 @@ Here, you'll find all of my projects and code that I've created and shared with 
   <a href="mailto:lysakov555@gmail.com">
     <img src="https://img.shields.io/badge/email-gmail.com-blue?style=flat&logo=gmail&logoColor=white&labelColor=5F5F5F" alt="Your Email" />
   </a>
-  <a href="https://linkedin.com/in/oleksandr-lysakov">
+  <a href="https://linkedin.com/in/oleksandr-wojtyla">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&labelColor=5F5F5F" alt="LinkedIn" />
   </a>
 </p>
-
 ## Project List
 
 ### Employee Time Management System
