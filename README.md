@@ -75,11 +75,6 @@ Commercial, full stack project that was developed based on client needs and is n
 - [Users web app (React, Typescript, ModuleCSS)](https://github.com/pologora/vacations_app)
 - [Android app (React-native, Typescript)](https://github.com/pologora/employee_time_management/tree/master/mobile_app)
   
-### Audiophile e-commerce website
-Multi-page full responsive e-commerce site, a project I developed to demonstrate my skills as a frontend developer.
-- [Live Version](https://audiophile-website-pologora.vercel.app/)
-- [Code](https://github.com/pologora/audiophile-website)
-
 ### NFT Project, 10000 unique CPunks
 A web application for browsing and minting unique digital art pieces as NFTs (Non-Fungible Tokens).  The platform is built using React, Ethereum Smart Contracts, and the IPFS distributed file system.
 - [Live Version](https://cronos-cpunks.netlify.app)
