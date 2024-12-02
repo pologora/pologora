@@ -36,7 +36,7 @@ Alias is a real-time multiplayer word game developed as a group project during a
 #### Tech Stack
 - **Backend**: Node.js, TypeScript, Express, MongoDB.
 - **Frontend**: Handlebars.
-- **Libraries & Tools**: Socket.IO, Docker.
+- **Libraries & Tools**: Socket.IO, Docker, Swagger.
 
 #### Links
 - [Live](https://alias.webdevolek.stronawcal.pl/)
