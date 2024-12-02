@@ -68,7 +68,7 @@ Lawyer Matching Service is a RESTful API designed to connect clients with lawyer
 Commercial, full stack project that was developed based on client needs and is now
        being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
        The system includes a mobile and web apps for employees, an admin web application for managers and a Node.js server with MongoDB.
-- [Live Version](https://test-magazyn.netlify.app/login)
+- [Live Development Version](https://test-magazyn.netlify.app/login)
   ### Code:
 - [Admin panel (React, MaterialUI, Tailwindcss)](https://github.com/pologora/magazyn_time_management)
 - [Backend (Node.js, Express, MongoDB)](https://github.com/pologora/magazyn_backend)
