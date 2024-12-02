@@ -24,6 +24,46 @@ Here, you'll find all of my projects and code that I've created and shared with 
 
 ## Project List
 
+### Alias Game
+Alias is a real-time multiplayer word game developed as a group project during an internship at Solvd, Inc. The game leverages modern web technologies to provide seamless real-time gameplay, chat, and word validation functionality. Designed for fun and collaboration, Alias is an excellent example of teamwork and backend proficiency.
+
+#### Features
+- **Real-Time Multiplayer**
+- **Live Chat**
+- **Word Validation**
+- **Seamless Synchronization**
+
+#### Tech Stack
+- **Backend**: Node.js, TypeScript, Express, MongoDB.
+- **Frontend**: Handlebars.
+- **Libraries & Tools**: Socket.IO, Docker.
+
+#### Links
+- [Live](https://alias.webdevolek.stronawcal.pl/)
+- [Code](https://github.com/pologora/alias)
+
+### Lawyer Matching Service (REST API)
+Lawyer Matching Service is a RESTful API designed to connect clients with lawyers based on specific needs and preferences. Developed as a personal project during an internship, it focuses on providing robust features for user management, case matching, and secure communication.
+
+#### Features
+- **User Registration and Authentication**: Support for email and Google account registration, with email verification for enhanced security.
+- **Profile Management**: Customizable profiles for both clients and lawyers.
+- **Case Posting**: Clients can post cases with detailed descriptions and requirements.
+- **Lawyer Search**: Filter lawyers by case type, city, region, and hourly rate.
+- **Ratings and Reviews**: Clients can rate and review lawyers based on their services.
+- **Messaging System**: Secure client-lawyer communication within the platform.
+- **Admin Dashboard**: Tools for monitoring user activity, managing cases, and maintaining system integrity.
+
+#### Tech Stack
+- **Backend**: Node.js, TypeScript, Express.
+- **Database**: MySQL.
+- **Tools**: Docker.
+
+#### Links
+- [Repository](https://github.com/pologora/lawyer_matching_system_rest_api)
+- [Project Tracker](https://github.com/users/pologora/projects/5/views/1)
+
+
 ### Employee Time Management System
 Commercial, full stack project that was developed based on client needs and is now
        being used by a warehouse company to manage employee work schedules, track vacations, and generate various reports. 
